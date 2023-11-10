@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      {/* This is just for testing purpose */}
       <h1>Hello world</h1>
     </>
   );
